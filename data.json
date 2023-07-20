@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "amountArset": 100,
+      "type": "Add",
+      "date": "2023-07-19T15:27:12.958Z",
+      "id": 1
+    },
+    {
+      "amountArset": 500,
+      "type": "Add",
+      "date": "2023-07-20T05:51:16.508Z",
+      "id": 2
+    },
+    {
+      "amountArset": 200,
+      "type": "Remove",
+      "date": "2023-07-20T05:54:19.368Z",
+      "id": 3
+    }
+  ]
+}
